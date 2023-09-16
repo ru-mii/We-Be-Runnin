@@ -1,0 +1,9 @@
+1. User with the best SUBMITTED
+time before end of bounty will
+be declared a winner.
+
+2. In case of a tied record/s
+we will exceed the bounty end-date
+by 1 week, if after that time there
+will still be tied records; an equal
+bounty split will take place.
