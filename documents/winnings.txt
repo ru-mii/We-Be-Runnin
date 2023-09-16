@@ -78,3 +78,8 @@ the bounty winnings as per first point.
 used to transfer money, whatever Paypal, Coinbase or
 Amazon or any other service decides what the dollar
 is worth converted to your currency.
+
+4. If run gets submitted before bounty end-date
+but won't get verified before bounty end-date
+then that's fine howver run will still need to be
+verified before we send out the money.
